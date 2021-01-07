@@ -1,0 +1,144 @@
+@charset "utf-8";
+.top{
+    margin-top: 34px;
+    margin-bottom: 24px;
+}
+.top img{
+    width: 216px;
+    height: 50px;
+    margin: 0 22px 0 90px ;
+}
+.top .line{
+    width: 1px;
+    height: 50px;
+    background-color: #e8e8e8;
+}
+.top span{
+    font-size: 22px;
+    line-height: 50px;
+    color: #707070;
+    margin-left: 22px;
+}
+.nav{
+    height: 450px;
+    background-color: #ff6a6c;
+}
+.nav img{
+    margin-left: 100px;
+}
+.nav form{
+    background-color: #fff;
+    padding: 26px 32px 20px 36px;
+    margin-top: 36px;
+    border-top: 3px solid #f06b0e;
+    position: relative;
+}
+.nav form p{
+    color: #343434;
+    margin-bottom: 24px;
+}
+.nav form .name .icon-xinfeng,
+.icon-iconset0114{
+    width: 34px;
+    height: 34px;
+    border: 1px solid #f36d14;
+    text-align: center;
+    line-height: 34px;
+    font-size: 14px;
+    color: #f36d14;
+}
+.nav form .name{
+    margin-bottom: 14px;
+}
+.nav form .name .into,
+.pass,
+.yan{
+    width: 228px;
+    height: 34px;
+    line-height: 34px;
+    font-size: 14px;
+    border: 1px solid #f36d14;
+    border-left: 0;
+    padding-left: 15px;
+    color: #a2a2a2;
+}
+.icon-iconset0114{
+    border: 1px solid #f0f0f0;
+    color: #f0f0f0;
+}
+.yz{
+    margin-top: 14px;
+}
+.pass{
+    border: 1px solid #f0f0f0;
+}
+.yan{
+    width: 191px;
+    border: 1px solid #f0f0f0;
+}
+.sui{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 34px;
+    color: #223fa7;
+    margin-left: 18px;
+}
+button{
+    width: 286px;
+    height: 38px;
+    background-color: #f26b11;
+    margin-top: 24px;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+}
+.forget{
+    margin-top: 12px;
+}
+.forget>input{
+    border: 1px solid #f0f0f0;
+    margin-top: 2px;
+    margin-right: 5px;
+}
+.forget>label,
+.forget>span{
+    font-size: 12px;
+    color: #676767;
+}
+.nav form>.line{
+    width: 354px;
+    height: 1px;
+    background-color: #efefef;
+    position: absolute;
+    left: 0px;
+    top: 317px;
+}
+.footer{
+    margin-top: 45px;
+}
+.footer .icon-yuandianxiao{
+    color: #27a5f9;
+    margin-top: 2px;
+}
+.footer .text{
+    font-size: 12px;
+    color: #6b6b6b;
+    margin-right: 30px;
+}
+.footer .icon-yuandianxiao1{
+    color: #d02a36;
+}
+.footer .icon-yuandianxiao2{
+    color: #1dc740;
+}
+.footer .text1{
+    font-size: 14px;
+    color: #ff5a00;
+}
+.footer-last {
+    padding: 22px 0;
+    font-size: 12px;
+    line-height: 28px;
+    color: #646464;
+    text-align: center;
+}

@@ -1,0 +1,115 @@
+@charset "utf-8";
+body{
+    background-color: #f6f6f6;
+}
+.top{
+    padding: 34px 0 24px;
+    background-color: #fff;
+}
+.top img{
+    width: 216px;
+    height: 50px;
+    margin: 0 22px 0 90px ;
+}
+.top .line{
+    width: 1px;
+    height: 50px;
+    background-color: #e8e8e8;
+}
+.top span{
+    font-size: 22px;
+    line-height: 50px;
+    color: #707070;
+    margin-left: 22px;
+}
+form{
+    background-color: #fff;
+    padding: 30px 180px 50px 180px;
+    margin: 36px 300px 0;
+    border-top: 3px solid #f06b0e;
+    text-align: center;
+}
+form p{
+    font-size: 22px;
+    font-weight: 700;
+    color: #343434;
+    margin-bottom: 24px;
+}
+form .name .icon-xinfeng,
+.icon-iconset0114{
+    width: 34px;
+    height: 34px;
+    border: 1px solid #f36d14;
+    text-align: center;
+    line-height: 34px;
+    font-size: 14px;
+    color: #f36d14;
+}
+form .txt{
+    font-size: 12px;
+    color: #f0681c;
+    text-align: left;
+    font-weight: normal;
+    margin-top: 10px;
+}
+form .name .into,
+.pass,
+.yan{
+    width: 325px;
+    height: 34px;
+    line-height: 34px;
+    font-size: 14px;
+    border: 1px solid #f36d14;
+    border-left: 0;
+    padding-left: 15px;
+    color: #a2a2a2;
+}
+.icon-iconset0114{
+    border: 1px solid #f0f0f0;
+    color: #f0f0f0;
+}
+.yz{
+    margin-top: 14px;
+}
+.pass{
+    border: 1px solid #f0f0f0;
+}
+.yan{
+    width: 206px;
+    border: 1px solid #f0f0f0;
+}
+.sui{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 34px;
+    color: #223fa7;
+    margin-left: 18px;
+}
+button{
+    width: 384px;
+    height: 44px;
+    background-color: #f26b11;
+    margin-top: 32px;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+}
+form .txt2{
+    font-size: 12px;
+    color: #2f2f2f;
+    font-weight: normal;
+    margin-top: 35px;
+    margin-bottom: 0;
+}
+form .txt2>span{
+    color: #e47327;
+}
+.footer-last {
+    background-color: #fff;
+    padding: 22px 0;
+    margin-top: 38px;
+    font-size: 12px;
+    line-height: 28px;
+    color: #6e6e6e;
+    text-align: center;
+}

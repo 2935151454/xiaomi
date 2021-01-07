@@ -1,0 +1,43 @@
+/* 统一编码 */
+@charset "utf-8";
+/* 版心 */
+.inner{
+    width: 1190px;
+    margin: 0 auto;
+}
+.topnav {
+    height: 34px;
+    background-color: #f5f5f5;
+    border-bottom: 2px solid #f3f3f3;
+    font-size: 12px;
+    color: #676966;
+    line-height: 34px;
+}
+.topnav .topnavLeft .leftlist{
+    margin-right: 24px;
+}
+.topnav .topnavLeft .first{
+    margin: 0 24px 0 10px;
+}
+.topnav .topnavLeft .leftlist>div{
+    margin-top: 3px;
+}
+.topnav .topnavLeft .leftlist .icon-dingwei1{
+    margin: 0;
+    color: #fd9407;
+}
+.topnav .topnavRight .rightlist{
+    margin-right: 18px;
+}
+.topnav .topnavRight .rightlist>div{
+    margin-top: 3px;
+}
+.topnav .topnavRight .rightlist .icon-dilanxianxingiconyihuifu_huabanfuben{
+    margin: 0 8px 0 0;
+}
+.topnav .topnavRight .first{
+    margin-right: 15px;
+}
+.topnav .topnavRight .red{
+    color: #ff4b00;
+}

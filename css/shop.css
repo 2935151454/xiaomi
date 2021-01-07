@@ -1,0 +1,180 @@
+@charset "utf-8";
+.top{
+    margin-top: 34px;
+    margin-bottom: 42px;
+}
+.top img{
+    width: 216px;
+    height: 50px;
+    margin: 0 22px 0 90px ;
+}
+.top .line{
+    width: 1px;
+    height: 50px;
+    background-color: #e8e8e8;
+}
+.top span{
+    font-size: 22px;
+    line-height: 50px;
+    color: #707070;
+    margin-left: 22px;
+}
+.top .in input{
+    float: left;
+    margin-top: 7px;
+}
+.top .in .txt{
+    width: 405px;
+    height: 35px;
+    border: 2px solid #f76915;
+}
+.top .in .btn{
+    width: 77px;
+    height: 39px;
+    background-color: #f76915;
+    text-align: center;
+    line-height: 39px;
+    color: #f0ffff;
+}
+.main .list{
+    line-height: 41px;
+    color: #646464;
+    font-size: 12px;
+    background-color: #f5f5f5;
+    border: 1px solid #d9d9d9;
+}
+.main .list>input{
+    margin: 14px 14px 0 22px;
+}
+.main .list>div {
+    float: left;
+}
+.main .list .list-2{
+    width: 104px;
+    text-align: center;
+    margin-right: 80px;
+}
+.main .list .list-4{
+    margin-left: 122px;
+    margin-right: 200px;
+}
+.main .list .list-5 {
+    margin-right: 120px;
+}
+.main .item{
+    padding: 22px 0 26px 22px;
+    border-bottom: 1px solid #e3e3e3;
+}
+.main .item img{
+    margin-left: 24px;
+    margin-right: 20px;
+}
+.main .item .font{
+    width: 302px;
+    font-size: 12px;
+}
+.main .item .font p{
+    color: #2a2a2a;
+    line-height: 18px;
+}
+.main .item .font .co{
+    margin-top: 15px;
+    color: #8d8d8d;
+}
+.main .item .font .co .xing{
+    margin-left: 24px;
+}
+.main .item .price{
+    font-size: 12px;
+    width: 104px;
+    text-align: center;
+    color: #3a3a3a;
+    margin-left: 66px;
+    margin-right: 88px;
+}
+.main .item .num {
+    border: 1px solid #cdcdcd;
+}
+.main .item .num>span{
+    font-size: 12px;
+    float: left;
+    width: 29px;
+    height: 29px;
+    border-left: 1px solid #cdcdcd;
+    text-align: center;
+    line-height: 29px;
+}
+.main .item .num .jian{
+    border: 0;
+    color: #cdcdcd;
+}
+.main .item .price2 {
+    font-size: 12px;
+    width: 104px;
+    color: #e8803f;
+    margin-left: 85px;
+    text-align: center;
+}
+.main .item .de{
+    font-size: 12px;
+    margin-left: 116px;
+    color: #333333;
+}
+.main .item .de .txt1{
+    color: #f36300;
+    text-decoration: underline;
+    margin-bottom: 12px;
+}
+.main .item1 {
+    background-color: #fef9f6;
+}
+.main .shop {
+    font-size: 12px;
+    color: #6c6c6c;
+    padding: 15px 50px 20px 22px;
+    background-color: #f9f9f9;
+    margin-top: 40px;
+}
+.main .shop input{
+    margin-top: 2px;
+    margin-right: 12px;
+}
+.main .shop .tet {
+    margin-left: 30px;
+    color: #fa660e;
+}
+.main .shop .price>p {
+    margin-bottom: 12px;
+}
+.main .shop .price .tet1 {
+    margin-bottom: 0;
+}
+.main .shop .price .tet1>span {
+    color: #ff6400;
+}
+.main .shop .ch {
+    margin-right: 20px;
+}
+.main .shop .ch>span{
+    color: #ff6400;
+}
+.main .to {
+    width: 400px;
+    margin-top: 25px;
+    text-align: center;
+    line-height: 44px;
+    margin-left:790px;
+    margin-bottom: 30px;
+}
+.main .to .con {
+    width: 184px;
+    height: 44px;
+    border: 1px solid #f26b11;
+}
+.main .to .sub {
+    width: 186px;
+    height: 46px;
+    line-height: 46px;
+    background-color: #f26b11;
+    color: #f8faef;
+}
